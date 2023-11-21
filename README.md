@@ -2,6 +2,10 @@
 
 This project aims to help users create custom tutorials for mobile applications.
 
+Document link: https://docs.google.com/document/d/1tFKAmn7i-ckA15fcxnLnAcW6lxnIh9m9jLNwQRlrYvU/edit?usp=sharing
+
+Deck link: https://docs.google.com/presentation/d/1qhlx9S_hvMZds1aic8eNcbGT845QmtBZUde_WgAeRs8/edit?usp=sharing
+
 ## How it works
 
 1. The user inputs a video screen recording of them using a certain application. eg. Using the VITian App to check the exam schedule.
